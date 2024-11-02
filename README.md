@@ -25,7 +25,7 @@ Make sure you have Python and pip installed. You can download Python from [pytho
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/django-to-do-list.git
+git clone https://github.com/steve-ongera/Django-To-Do-list-with-user-authentication-.git
 cd django-to-do-list
 ```
 
